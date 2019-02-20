@@ -16,7 +16,7 @@
     "url": "git+https://github.com/DirtyDevWork/homebridge-daikin.git"
   },
   "dependencies": {
-    "request": "^2.65.0"
+    "request": "^2.88.0"
   },
   "bugs": {
     "url": "https://github.com/DirtyDevWork/homebridge-daikin/issues"
